@@ -1,6 +1,6 @@
 
-  # <center> Engenharia de Aprendizado de Máquina (CCF726) 
-  Projeto de Desenvolvimento</center>
+  # <center> Engenharia de Aprendizado de Máquina (CCF726)  
+  # Projeto de Desenvolvimento </center>
 
 ## Descrição 
 <p align="justify"> 
