@@ -1,8 +1,7 @@
 
     
-   <center><h1>Projeto de Desenvolvimento </h1></center>
+   <h1><center>Projeto de Desenvolvimento </center></h1>
 
-## Engenharia de Aprendizado de Máquina (CCF726)  
 
 ## Descrição 
 <p align="justify"> 
