@@ -6,7 +6,12 @@ Como proposta, pretende-se utilizar três conjuntos de dados para predição de 
 
 ## Diabetes:
 
-O diabetes é o segundo principal fator de risco do AVC, além de piorar a hipertensão arterial também contribui na formação da aterosclerose.
+ O diabetes é uma doença sem cura que atinge cerca de 16 milhões de brasileiros, segundo relatório da Organização Mundial de Saúde. Seus sintomas costumam ser sutis, por isso, muitas vezes, passam despercebidos. Descobrir a doença no seu início é fundamental, Pois, mantendo um nível bom de glicose e ter acompanhamento médico, ele pode evitar consequências graves [1].
+
+
+O diabetes é o segundo principal fator de risco do AVC, além de piorar a hipertensão arterial também contribui na formação da aterosclerose. Este conjunto de dados possui 17 atributos e 1 resposta . os dados são mostrados da seguinte forma: 
+
+"diabetes_data.csv"
 
 
 
@@ -41,6 +46,8 @@ O conjunto de dados "stroke_data.csv" é utilizado para verificar as possiblidad
 
 
 
+
+[1]:  http://www.prontosaude.com.br/post/diabetes-a-importancia-do-diagnostico-precoce
 
 
 <p align="center">
