@@ -31,7 +31,3 @@ O objetivo deste projeto é possibilitar aos alunos aplicarem os conceitos estud
 Toda a entrega e acompanhamento será via Github. Acrescente o usuário do professor (fabaguiarsilva) como integrante do projeto para visualizar o andamento. Fazer uma documentação detalhando todas as etapas, o código fonte utilizado e uma explicação do funcionamento como um todo. Teremos duas avaliações intermediárias de acompanhamento. No final, fazer uma apresentação para a turma no dia 19/06 ou 21/06 (data a ser definida para cada aluno).</p>
 
 
-
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
