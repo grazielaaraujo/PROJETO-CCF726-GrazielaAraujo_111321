@@ -3,7 +3,7 @@
 <h1><center> Previsão de Diabetes, Hipertensão e AVC </center></h1>
 
 Como proposta, pretende-se utilizar três conjuntos de dados para predição de diabetes, hipertensão e o AVC. Ainda pretende-se verificar se a predição de uma das doenças podem influenciar na predição de outra. 
-Teste
+
 ## Diabetes:
 
  O diabetes é uma doença sem cura que atinge cerca de 16 milhões de brasileiros, segundo relatório da Organização Mundial de Saúde. Seus sintomas costumam ser sutis, por isso, muitas vezes, passam despercebidos. Descobrir a doença no seu início é fundamental, Pois, mantendo um nível bom de glicose e ter acompanhamento médico, ele pode evitar consequências graves [1].
