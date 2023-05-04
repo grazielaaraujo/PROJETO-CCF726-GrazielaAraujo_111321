@@ -36,9 +36,11 @@ O conjunto de dados "stroke_data.csv" é utilizado para verificar as possiblidad
 3. Podemos criar uma forma de perguntas rápidas usando a seleção de recursos para prever com precisão se alguém pode estar doente ou está em alto risco?
 
 
-## Dataset: ###[Conjunto de dados para previsão de diabetes, e hipertensão e AVC](https://www.kaggle.com/datasets/prosperchuks/health-dataset) no Kaggle 
+## Dataset: [Conjunto de dados para previsão de diabetes, e hipertensão e AVC](https://www.kaggle.com/datasets/prosperchuks/health-dataset) no Kaggle 
 
-**Obs.: Não estou resolvida em trabalhar com as três bases, menciono as três, afim de verificar se existe alguma correlação entres elas.**
+
+
+
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
