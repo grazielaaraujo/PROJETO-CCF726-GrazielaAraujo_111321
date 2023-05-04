@@ -29,14 +29,14 @@ Em 90% dos casos, a hipertensão (pressão alta) é ordada dos pais. Contudo, po
 O conjunto de dados "stroke_data.csv" é utilizado para verificar as possiblidades de um paciente sofrer um AVC com base em características, como: sexo, idade, hipertensão, doença_cardíaca, se casado, tipo de trabalho, tipo de residência, nível de glicose, IMC, se fumante.
 
 
-### Problemas a serem tratados:
+<h2> Problemas a serem tratados: </h2>
 
 1. Quais fatores de risco são mais preditivos da doença?
 2. Podemos usar um subconjunto dos fatores de risco para prever com precisão se um indivíduo tem a determinada doença?
 3. Podemos criar uma forma de perguntas rápidas usando a seleção de recursos para prever com precisão se alguém pode estar doente ou está em alto risco?
 
 
-Dataset: [Conjunto de dados para previsão de diabetes, e hipertensão e AVC](https://www.kaggle.com/datasets/prosperchuks/health-dataset) no Kaggle 
+<h2>Dataset:</h2> [Conjunto de dados para previsão de diabetes, e hipertensão e AVC](https://www.kaggle.com/datasets/prosperchuks/health-dataset) no Kaggle 
 
 **Obs.: Não estou resolvida em trabalhar com as três bases, menciono as três, afim de verificar se existe alguma correlação entres elas.**
 
