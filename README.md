@@ -3,7 +3,7 @@
 <h1><center> Previsão de Diabetes, Hipertensão e AVC </center></h1>
 
 Como proposta, pretende-se utilizar três conjuntos de dados para predição de diabetes, hipertensão e o AVC. Ainda pretende-se verificar se a predição de uma das doenças podem influenciar na predição de outra. 
-
+Teste
 ## Diabetes:
 
 O diabetes é o segundo principal fator de risco do AVC, além de piorar a hipertensão arterial também contribui na formação da aterosclerose.
