@@ -6,7 +6,7 @@ Como proposta, pretende-se utilizar três conjuntos de dados para predição de 
 
 ## Diabetes:
 
- O diabetes é uma doença sem cura que atinge cerca de 16 milhões de brasileiros, de acordo com o relatório da Organização Mundial de Saúde. Seus sintomas costumam ser sutis, por isso, muitas vezes, passam despercebidos. Ainda, é considerado o segundo principal fator de risco para o AVC. Enfim, descobrir a doença no seu início é fundamental, pois, mantendo um nível bom de glicose e ter acompanhamento médico, pode evitar graves consequências [[1],[2]].
+ O diabetes é uma doença sem cura que atinge cerca de 16 milhões de brasileiros, de acordo com o relatório da Organização Mundial de Saúde. Seus sintomas costumam ser sutis, por isso, muitas vezes, passam despercebidos. Ainda, é considerado o segundo principal fator de risco para o AVC. Enfim, descobrir a doença no seu início é fundamental, pois, mantendo um nível bom de glicose e ter acompanhamento médico, pode evitar graves consequências [[1], [2]].
 
 Este conjunto de dados "diabetes_data.csv", possui 17 atributos e 1 uma variável alvo. Os dados são organizados da seguinte forma: 
 
@@ -30,22 +30,49 @@ Este conjunto de dados "diabetes_data.csv", possui 17 atributos e 1 uma variáve
 18. "Diabet": 0 = sem diabetes, 1 = diabetes.
 
 
-## Hipertenção
-Em 90% dos casos, a hipertensão (pressão alta) é ordada dos pais. Contudo, possiu vários fatores que influenciam nos níveis de pressão arterial, como segue:
+## Hipertensão
 
-1. Fumo;
-2. Consumo de bebidas alcoólicas;
-3. Obesidade;
-4. Estresse;
-5. Elevado consumo de sal;
-6. Níveis altos de colesterol;
-7. Falta de atividade física.
+Apesar de 90% dos casos, a hipertensão (pressão alta) serem herdada dos pais [[4]]. Tem-se vários fatores que influenciam nos níveis de pressão arterial, como, fumo, consumo de bebidas alcoólicas, obesidade, estresse, elevado consumo de sal, níveis altos de colesterol e falta de atividade física. E uma das formas de prevenção é controlando o diabetes.
+
 
 [No Brasil, 388 pessoas morrem por dia por hipertensão](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hipertensao#:~:text=A%20hipertens%C3%A3o%20arterial%20ou%20press%C3%A3o,(ou%2014%20por%209).).
 
+O conjunto de dados "hypertension_data.csv", disponibilizado para previsão de AVC, está organizado com a seguintes informações:
+
+1. "age": idade do paciente (em anos);
+2. "sex": sexo do paciente (1: masculino; 0: feminino);
+3. "cp": Tipo de dor torácica: 0: assintomática 1: angina típica 2: angina atípica 3: dor não anginosa;
+4. "trestbps": Pressão arterial em repouso (em mm Hg);
+5. "chol": Colesterol sérico em mg/dl;
+6. "fbs": se a glicemia de jejum do paciente > 120 mg/dl (1: sim; 0: não);
+7. "restecg": Resultados do ECG em repouso: 0: normal 1: anormalidade da onda ST-T;
+8. "thalach": Frequência cardíaca máxima alcançada.
+9. "exang": Angina induzida por exercício (1: sim; 0: não)
+10. "oldpeak": Depressão de ST induzida por exercício em relação ao repouso.
+11. "slope": A inclinação do segmento ST do exercício de pico: 0: ascendente 1: plana 2: descendente
+12. "ca": Número de vasos principais (0–3) coloridos por fluoroscopia
+13. "thal": 3: Normal; 6: Defeito corrigido; 7: Defeito reversível
+14. "target": Se o paciente tem hipertensão (1) ou não (0).
+
+
 
 ## AVC
-O conjunto de dados "stroke_data.csv" é utilizado para verificar as possiblidades de um paciente sofrer um AVC com base em características, como: sexo, idade, hipertensão, doença_cardíaca, se casado, tipo de trabalho, tipo de residência, nível de glicose, IMC, se fumante.
+O acidente vascular cerebral (AVC) ocorre quando o fluxo sanguíneo para o cérebro é reduzido ou bloqueado, causando perda de funções neurológicas [[3]]. Visto que a pressão arterial é seu principal fator de risco, seu controle é fundamental paraa prevenção do AVC.
+
+O conjunto de dados "stroke_data.csv" é utilizado para verificar as possiblidades de um paciente sofrer um AVC com base em características, como: 
+
+1. "sex": sexo do paciente (1: masculino; 0: feminino);
+2. "age": idade do paciente (em anos);
+3. "hypertension": paciente já teve hipertensão (1) ou não (0);
+4. "heart_disease": paciente já teve doença cardíaca (1) ou não (0);
+5. "ever_married": paciente casado (1) ou não (0);
+6. "work_type": tipo de trabalho do paciente: 0 - Never_worked, 1 - filhos, 2 - Govt_job, 3 - Autônomo, 4 - Particular;
+7. "Residence_type": área do paciente: 1 - Urbano, 0 - Rural;
+8. "avg_glucose_level": nível médio de açúcar no sangue do paciente;
+9. "bmi": Índice de massa corporal;
+10. "smoking_status": 1 - fuma, 0 - nunca fumou;
+11. "stroke": Se o paciente tem AVC (1) ou não (0).
+
 
 
 ## Problemas a serem tratados: 
@@ -63,6 +90,8 @@ O conjunto de dados "stroke_data.csv" é utilizado para verificar as possiblidad
 
 [1]:  http://www.prontosaude.com.br/post/diabetes-a-importancia-do-diagnostico-precoce
 [2]: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hipertensao#:~:text=A%20hipertens%C3%A3o%20arterial%20ou%20press%C3%A3o,(ou%2014%20por%209).
+[3]. https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/noticias/?p=320188#:~:text=Popularmente%20conhecido%20como%20derrame%2C%20o,de%20risco%20%C3%A9%20a%20hipertens%C3%A3o.
+[4]. https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hipertensao#:~:text=A%20hipertens%C3%A3o%20arterial%20ou%20press%C3%A3o,(ou%2014%20por%209).
 
 
 <p align="center">
