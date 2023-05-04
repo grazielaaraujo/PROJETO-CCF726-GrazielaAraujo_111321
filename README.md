@@ -90,8 +90,8 @@ O conjunto de dados "stroke_data.csv" é utilizado para verificar as possiblidad
 
 [1]:  http://www.prontosaude.com.br/post/diabetes-a-importancia-do-diagnostico-precoce
 [2]: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hipertensao#:~:text=A%20hipertens%C3%A3o%20arterial%20ou%20press%C3%A3o,(ou%2014%20por%209).
-[3]. https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/noticias/?p=320188#:~:text=Popularmente%20conhecido%20como%20derrame%2C%20o,de%20risco%20%C3%A9%20a%20hipertens%C3%A3o.
-[4]. https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hipertensao#:~:text=A%20hipertens%C3%A3o%20arterial%20ou%20press%C3%A3o,(ou%2014%20por%209).
+[3]: https://www.prefeitura.sp.gov.br/cidade/secretarias/saude/noticias/?p=320188#:~:text=Popularmente%20conhecido%20como%20derrame%2C%20o,de%20risco%20%C3%A9%20a%20hipertens%C3%A3o.
+[4]: https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hipertensao#:~:text=A%20hipertens%C3%A3o%20arterial%20ou%20press%C3%A3o,(ou%2014%20por%209).
 
 
 <p align="center">
