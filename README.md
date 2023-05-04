@@ -36,7 +36,8 @@ O conjunto de dados "stroke_data.csv" é utilizado para verificar as possiblidad
 3. Podemos criar uma forma de perguntas rápidas usando a seleção de recursos para prever com precisão se alguém pode estar doente ou está em alto risco?
 
 
-## Dataset: [Conjunto de dados para previsão de diabetes, e hipertensão e AVC](https://www.kaggle.com/datasets/prosperchuks/health-dataset) no Kaggle 
+## Dataset: 
+  * [Conjunto de dados para previsão de diabetes, e hipertensão e AVC](https://www.kaggle.com/datasets/prosperchuks/health-dataset) no Kaggle 
 
 
 
